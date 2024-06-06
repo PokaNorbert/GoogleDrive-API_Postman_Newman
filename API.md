@@ -7,7 +7,7 @@ Tools used: Postman, Newman
 
 Collection link: 
 
-<h2>Tests performed<h2>
+<h1>Tests performed<h1>
 1.
 HTTP method for request: 
 Request description: 
@@ -39,7 +39,7 @@ JavaScript Tests:
 5.
 
 
-<h3>Execution report for the created API collection<h3>
+<h1>Execution report for the created API collection<h1>
 Below you can find the execution report that was generated through the Postman collection runner.
 
 
@@ -51,5 +51,5 @@ The following issues were identified while running the postman tests:
 
 
 
-<h4>Conclusions<h4>
+<h1>Conclusions<h1>
 Consequently,
