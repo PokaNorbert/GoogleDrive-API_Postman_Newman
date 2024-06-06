@@ -11,9 +11,13 @@ Collection link:
 <h1>Tests performed<h1>
   
 1.
-HTTP method for request: 
+
+HTTP method for request:
+
 Request description: 
+
 Test types / techniques used: 
+
 Response status code: 
 
 Below you can find a picture of the API request from Postman:
@@ -23,9 +27,13 @@ JavaScript Tests:
 
 
 2.
-HTTP method for request: 
+
+HTTP method for request:
+
 Request description: 
+
 Test types / techniques used: 
+
 Response status code: 
 
 Below you can find a picture of the API request from Postman:
@@ -37,7 +45,9 @@ JavaScript Tests:
 
 
 3.
+
 4.
+
 5.
 
 
@@ -50,6 +60,7 @@ The collection was also run through newman directly from the terminal, and the r
 
 
 Defects found
+
 The following issues were identified while running the postman tests:
 
 
