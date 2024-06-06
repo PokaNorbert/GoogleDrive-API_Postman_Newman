@@ -1,4 +1,5 @@
 <h1>API Testing Project for Google Drive<h1>
+  
 The goal of this project, for the "IT Factory Manual Testing Course", is to use all the knowledge acquired during the course sessions, and to be able to apply it in a practical way.
 
 Application under test: https://drive.google.com
@@ -8,6 +9,7 @@ Tools used: Postman, Newman
 Collection link: 
 
 <h1>Tests performed<h1>
+  
 1.
 HTTP method for request: 
 Request description: 
@@ -40,6 +42,7 @@ JavaScript Tests:
 
 
 <h1>Execution report for the created API collection<h1>
+  
 Below you can find the execution report that was generated through the Postman collection runner.
 
 
@@ -52,4 +55,5 @@ The following issues were identified while running the postman tests:
 
 
 <h1>Conclusions<h1>
+  
 Consequently,
