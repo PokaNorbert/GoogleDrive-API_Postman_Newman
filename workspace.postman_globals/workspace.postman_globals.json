@@ -1,0 +1,15 @@
+{
+	"id": "8a8853f5-fc39-42ef-8056-fec9f70a53c3",
+	"values": [
+		{
+			"key": "endpoint",
+			"value": "https://www.googleapis.com/drive/v3/files",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-06-13T22:29:44.716Z",
+	"_postman_exported_using": "Postman/11.1.25"
+}
