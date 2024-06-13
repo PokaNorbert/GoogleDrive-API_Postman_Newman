@@ -1,4 +1,4 @@
-# API-Postman-Newman
+# Important information about API testing
 
 API Testing Project for Google Drive
 The goal of this project, for the "IT Factory Manual Testing Course", is to use all the knowledge acquired during the course sessions, and to be able to apply it in a practical way.
