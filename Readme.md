@@ -15,4 +15,4 @@ The ISTQB is taken from December 16, 2024. New posts or updates will appear next
 
 There are several projects under consideration to be posted on GitHub.
 
-For any questions you can contact me!
+For any questions you can contact me here or on: mail, LinkedIn, Facebook, Instagram, Discord, TikTok!
