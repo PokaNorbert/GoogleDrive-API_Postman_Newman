@@ -11,6 +11,6 @@ All requests ran without problems, not taking into account the fact that some of
 
 Instead, a risk could represent the downfall of the Google platform, which would guarantee the impact of all requests. I did not send requests based on all types of files, so I recommend that the next tester set a better coverage.
 
-The ISTQB is taken from December 16, 2024. I'll be back at the beginning of February. For the next few weeks, I'll prioritize the college exam session.
+The ISTQB is taken from December 16, 2024. 
 
 For any questions you can contact me here or on: mail, LinkedIn, Facebook, Instagram, Discord, TikTok!
