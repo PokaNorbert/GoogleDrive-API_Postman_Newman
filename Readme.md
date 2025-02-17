@@ -15,7 +15,7 @@ This repository will not be modified too much.
 
 The ISTQB is taken from December 16, 2024. 
 
-for any questions you can contact me here or on: 
+for any questions you can *contact me* here or on: 
 
 mail (orbert.pn@gmail.com), 
 
