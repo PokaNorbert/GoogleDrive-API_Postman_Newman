@@ -15,4 +15,18 @@ This repository will not be modified too much.
 
 The ISTQB is taken from December 16, 2024. 
 
-For any questions you can contact me here or on: mail, LinkedIn, Facebook, Instagram, Discord, TikTok!
+for any questions you can contact me here or on: 
+
+mail (orbert.pn@gmail.com), 
+
+LinkedIn, 
+
+Facebook, 
+
+Instagram, 
+
+Discord 
+
+or TikTok:
+
+PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert 
