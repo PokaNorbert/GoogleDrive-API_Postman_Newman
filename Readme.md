@@ -10,23 +10,3 @@ Tools used: Postman, Newman
 All requests ran without problems, not taking into account the fact that some of them needed more than 200 ms. The application can be used by any user without any problem. The response times are not high enough to create problems for the user. 
 
 Instead, a risk could represent the downfall of the Google platform, which would guarantee the impact of all requests. I did not send requests based on all types of files, so I recommend that the next tester set a better coverage.
-
-This repository will not be modified too much.
-
-The ISTQB is taken from December 16, 2024. 
-
-for any questions you can *contact me* here or on: 
-
-mail (orbert.pn@gmail.com), 
-
-LinkedIn, 
-
-Facebook, 
-
-Instagram, 
-
-Discord 
-
-or TikTok:
-
-PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert 
