@@ -7,6 +7,8 @@ Application under test: https://drive.google.com
 
 Tools used: Postman, Newman
 
+Collection link: [tap here](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman_collection.json)
+
 <h2>Execution report for the created API collection</h2>
 
 Below you can find the execution report that was generated through the Postman collection runner:<br>
