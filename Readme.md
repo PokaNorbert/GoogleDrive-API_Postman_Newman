@@ -7,8 +7,6 @@ Application under test: https://drive.google.com
 
 Tools used: Postman, Newman
 
-Collection link: 
-
 <h2>Execution report for the created API collection</h2>
 
 Below you can find the execution report that was generated through the Postman collection runner:<br>
