@@ -17,7 +17,7 @@ The goal of this project, for the "IT Factory Manual Testing Course", is to use 
 
 Below you can find the execution report that was generated through the Postman collection runner:<br>
 
-[Postman](
+[Postman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman/Postman_test_run.json)
 
 The collection was also run through newman directly from the terminal, and the results can be found below:<br>
 
