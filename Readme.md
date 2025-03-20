@@ -19,6 +19,11 @@ The collection was also run through newman directly from the terminal, and the r
 
 [Newman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Executed_by_Newman.md)
 
+<h2>Defects found</h2>
+
+No bugs were identified in this testing session.
+
+
 
 All requests ran without problems, not taking into account the fact that some of them needed more than 200 ms. The application can be used by any user without any problem. The response times are not high enough to create problems for the user. 
 
