@@ -27,7 +27,9 @@ No defects/bugs were identified in this testing session.
 
 The conclusions of the testing carried out are the following:
 <ul>
-<li>All requests ran without problems, not taking into account the fact that some of them needed more than 200 ms. The application can be used by any user without any problem. The response times are not high enough to create problems for the use;</li>
+<li>All requests ran without problems, not taking into account the fact that some of them needed more than 200 ms;</li>
+<li>The response times are not high enough to create problems for the use;</li>
+<li>The application can be used by any user without no problems at first glance
 <li>Instead, a risk could represent the downfall of the Google platform, which would guarantee the impact of all requests;</li>
 <li>I did not send requests based on all types of files, so I recommend that the next tester set a better coverage.</li>
 </ul>
