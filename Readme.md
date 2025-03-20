@@ -11,7 +11,7 @@ Tools used: Postman, Newman
 
 Below you can find the execution report that was generated through the Postman collection runner:<br>
 
-[Postman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman_collection.json)
+[Postman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman_test_run.json)
 
 The collection was also run through newman directly from the terminal, and the results can be found below:<br>
 
