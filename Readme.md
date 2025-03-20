@@ -1,5 +1,4 @@
 # Important information about API testing
-
 API Testing Project for Google Drive
 The goal of this project, for the "IT Factory Manual Testing Course", is to use all the knowledge acquired during the course sessions, and to be able to apply it in a practical way.
 
@@ -14,7 +13,6 @@ The goal of this project, for the "IT Factory Manual Testing Course", is to use 
 ![Postman-Collection](https://github.com/user-attachments/assets/5963ae6d-2fa5-4bd8-99ba-0dc52287a3ba)
 
 <h2>Execution report for the created API collection</h2>
-
 Below you can find the execution report that was generated through the Postman collection runner:<br>
 
 [Postman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman/Postman_test_run.json)
@@ -24,11 +22,9 @@ The collection was also run through newman directly from the terminal, and the r
 [Newman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Newman/Executed_by_Newman.md)
 
 <h2>Defects found</h2>
-
 No defects/bugs were identified in this testing session.
 
 <h2>Conclusions</h2>
-
 The conclusions of the testing carried out are the following:
 <ul>
 <li>All requests ran without problems, not taking into account the fact that some of them needed more than 200 ms;</li>
