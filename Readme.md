@@ -3,9 +3,9 @@
 API Testing Project for Google Drive
 The goal of this project, for the "IT Factory Manual Testing Course", is to use all the knowledge acquired during the course sessions, and to be able to apply it in a practical way.
 
-Application under test: https://drive.google.com
+**Application** under test: https://drive.google.com
 
-Tools used: Postman, Newman
+**Tools** used: Postman, Newman
 
 Collection link: [tap here](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman_collection.json)
 
