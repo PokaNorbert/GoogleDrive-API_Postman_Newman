@@ -7,7 +7,7 @@ The goal of this project, for the "IT Factory Manual Testing Course", is to use 
 
 **Tools** used: Postman, Newman
 
-**Collection** link: [tap here](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman_collection.json)
+**Collection** link: [tap here](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman/Postman_collection.json)
 
 <h2>Requests</h2>
 
