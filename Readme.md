@@ -9,6 +9,10 @@ Tools used: Postman, Newman
 
 Collection link: [tap here](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman_collection.json)
 
+<h2>Requests</h2>
+
+[!jpg](https://github.com/user-attachments/assets/cdded2dd-b0e4-4588-8d08-dea1bd6a3b2f)
+
 <h2>Execution report for the created API collection</h2>
 
 Below you can find the execution report that was generated through the Postman collection runner:<br>
