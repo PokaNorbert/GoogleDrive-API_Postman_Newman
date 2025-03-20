@@ -9,7 +9,6 @@ The goal of this project, for the "IT Factory Manual Testing Course", is to use 
 **Collection** link: [tap here](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman/Postman_collection.json)
 
 <h2>Requests</h2>
-
 ![Postman-Collection](https://github.com/user-attachments/assets/5963ae6d-2fa5-4bd8-99ba-0dc52287a3ba)
 
 <h2>Execution report for the created API collection</h2>
