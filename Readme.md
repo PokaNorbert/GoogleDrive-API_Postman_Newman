@@ -21,7 +21,7 @@ Below you can find the execution report that was generated through the Postman c
 
 The collection was also run through newman directly from the terminal, and the results can be found below:<br>
 
-[Newman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Executed_by_Newman.md)
+[Newman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/tree/main/Newman)
 
 <h2>Defects found</h2>
 
