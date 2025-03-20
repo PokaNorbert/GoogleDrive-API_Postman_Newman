@@ -21,7 +21,7 @@ The collection was also run through newman directly from the terminal, and the r
 
 <h2>Defects found</h2>
 
-No bugs were identified in this testing session.
+No bugs/defects were identified in this testing session.
 
 <h2>Conclusions</h2>
 
