@@ -11,7 +11,7 @@ Collection link:
 
 <h2>Execution report for the created API collection</h2>
 
-Below you can find the execution report that was generated through the Postman collection runner. <br>
+Below you can find the execution report that was generated through the Postman collection runner:<br>
 
 [Postman](https://github.com/PokaNorbert/GoogleDrive-API_Postman_Newman/blob/main/Postman_collection.json)
 
